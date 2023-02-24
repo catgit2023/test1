@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Cats Lugo Site</title>
+	<link>http://example.org/categories/</link>
+	<description>Recent content in Categories on Cats Lugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Blog.post</title>
+		<link>http://example.org/blog/blog.post/</link>
+		<pubDate>Thu, 23 Feb 2023 13:00:58 -0500</pubDate>
+		
+		<guid>http://example.org/blog/blog.post/</guid>
+		<description>&lt;p&gt;here is my new blog post&lt;/p&gt;
+&lt;p&gt;see my &lt;a href=&#34;http://example.org/about&#34;&gt;about page&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Autobiography</title>
+		<link>http://example.org/autobiography/</link>
+		<pubDate>Thu, 23 Feb 2023 12:54:38 -0500</pubDate>
+		
+		<guid>http://example.org/autobiography/</guid>
+		<description>&lt;p&gt;info about me&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/cat1.png&#34; alt=&#34;cat by matisse&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://example.org/about/</link>
+		<pubDate>Thu, 23 Feb 2023 12:32:35 -0500</pubDate>
+		
+		<guid>http://example.org/about/</guid>
+		<description>&lt;p&gt;text goes here&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;asdfasdef&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
